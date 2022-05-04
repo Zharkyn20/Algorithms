@@ -7,6 +7,3 @@ def insertion_sort(x):
             i -= 1
         x[i + 1] = key
     print(x)
-
-
-insertion_sort([-21, 90, -34, 7])
